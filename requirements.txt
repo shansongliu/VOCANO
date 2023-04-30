@@ -15,3 +15,4 @@ scipy==1.5.3
 six==1.15.0
 tqdm==4.50.2
 urllib3==1.25.11
+cryptacular==1.6.2
