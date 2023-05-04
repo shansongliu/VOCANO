@@ -1,6 +1,5 @@
 torch==1.6.0
 torchvision==0.7.0
-apex==0.9.10.dev0
 certifi==2020.6.20
 chardet==3.0.4
 cupy-cuda101==8.0.0
